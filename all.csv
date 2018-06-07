@@ -1,0 +1,11 @@
+id,filename,item,itemtext,type,relevance,count,year,sentiment,anger,fear,joy,sadness,disgust
+1,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Concepts,"United Nations",NULL,0.980075,0,2016,0,0,0,0,0,0
+2,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Concepts,"Ban Ki-moon",NULL,0.927346,0,2016,0,0,0,0,0,0
+3,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Concepts,"Humanitarian aid",NULL,0.636054,0,2016,0,0,0,0,0,0
+4,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Concepts,"Secretary-General of the United Nations",NULL,0.47464,0,2016,0,0,0,0,0,0
+5,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Concepts,Future,NULL,0.447565,0,2016,0,0,0,0,0,0
+6,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Concepts,"Barack Obama",NULL,0.405723,0,2016,0,0,0,0,0,0
+7,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Categories,"/law, govt and politics/legal issues/human rights",NULL,0.576359,0,2016,0,0,0,0,0,0
+8,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Categories,"/society/unrest and war",NULL,0.353191,0,2016,0,0,0,0,0,0
+9,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Categories,"/law, govt and politics/government",NULL,0.316262,0,2016,0,0,0,0,0,0
+10,"/home/jdellaria/Desktop/UNGA Speeches/2016/DEU_71.txt.nlu.json",Entities,Syria,Location,0.772508,0,2016,-0.415574,0.075008,0.395153,0.319723,0.3097,0.013327
