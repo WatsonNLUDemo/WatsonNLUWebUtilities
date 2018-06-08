@@ -1,0 +1,430 @@
+ 
+
+
+
+TODAY’S FRONT PAGES
+January 15, 2016
+TV & RADIO
+Former FRA Administrator warns of CMAP’s impacts on nation’s railroads	2
+Grab a Cold One on the Train	2
+High Speed Rail Promises Brighter Economic Future	2
+18 Wheeler Strucks against Railroad Bridge	2
+Barge Strikes Railroad Bridge for the 3rd Time	2
+Amtrak Train & SUV Collide	2
+NATIONAL NEWS
+Progressive Railroading - AAR's Hamberger unveils industry's 2016 priorities	2
+PTC
+Inside GNSS (OR) - GPS-Aided Positive Train Control Goes Back on Transportation Safety Board's Most Wanted List for 2016	3
+Boston Review - Technology Derailed	4
+RAIL INCIDENTS
+WFAA (TX) - 18-wheeler collides with train in Mesquite; 1 dead	8
+ABC 7 (IL) - Amtrak Train Headed For Chicago Hits Tanker Truck In Texas	8
+The Florida Times Union - 1 dead after Amtrak train hits SUV at Jacksonville railroad crossing	9
+CROSSING NEWS
+Times Herald-Record (NY) - Schumer backs call for improvements at rail crossing	9
+The Almanac (CA) - Menlo Park gets started on two major rail crossing projects	10
+HIGH SPEED RAIL
+Los Angeles Times - Burbank will receive $800,000 to study proposed high-speed rail station	11
+HHFT
+The Spokesman Review - Proposed oil terminal brings only risk for Spokane, critics say	12
+AMTRAK
+WNPR (CT) - Feds Explore Options to "Transform" Northeast Rail Infrastructure at Meeting in Hartford	14
+The State Journal (WV) - Amtrak Adds Business Class to West Virginia's Cardinal passenger train	16
+STATE BY STATE
+Coloradoan - Crystal ball: Big things by 2030	16
+Progressive Railroading - Metra OKs $1 million study of Union Station improvements	18
+
+
+TV & RADIO
+Home
+Former FRA Administrator warns of CMAP’s impacts on nation’s railroads
+CLTV - Chicago, IL
+
+Grab a Cold One on the Train
+WFLX (FOX) - West Palm Beach, FL
+
+High Speed Rail Promises Brighter Economic Future
+KBAK (CBS) - Bakersfield, CA
+
+18 Wheeler Strucks against Railroad Bridge
+KLTV (ABC) - Tyler, TX
+
+Barge Strikes Railroad Bridge for the 3rd Time
+WDSU-NO (NBC) - New Orleans, LA
+
+Amtrak Train & SUV Collide
+WTLV-JAX (NBC) - Jacksonville, FL
+
+NATIONAL NEWS
+Home
+Progressive Railroading - AAR's Hamberger unveils industry's 2016 priorities
+January 14, 2016
+
+(AAR) President and Chief Executive Officer Edward Hamberger yesterday announced the industry's 2016 agenda, which will includes the issues of positive train control (PTC) implementation, maintaining "balanced" economic regulation at the Surface Transportation Board, extending the short-line tax credit, overall tax reform and advancing security-safety legislation.
+
+Hamberger set out the agenda in his remarks at the 246th regular meeting of the Midwest Association of Rail Shippers, AAR officials said in a press release. The three-day conference focused on challenges and opportunities for shippers, railroads and the supply chain.
+
+On the PTC front, freight railroads face a deadline later this month to provide the Federal Railroad Administration (FRA) with PTC implementation plans. Hamberger reaffirmed the industry's stance that the technology will be fully installed where required by 2018 and all testing for full coast-to-coast operations completed by 2020.
+
+"The past year brought much excitement and success for the freight rail industry, both from a service perspective and in terms of regulatory and legislative activity," said Hamberger. "We take very seriously our mission to deliver our customers’ goods efficiently, reliably and safely and look forward to our continued partnerships."
+
+He also addressed several successes for the rail industry from the past year, including stopping efforts to increase truck weights, pushing for safer tank cars that move flammable liquids, and achieving reform in environmental permitting.
+
+Hamberger also mentioned a long-term project that will be getting more emphasis in 2016: working with other industries and government to review the rulemaking process and improve a regulatory system that, in the industry's view, limits innovation and efficiency.
+
+He maintained that with a still-soft economy, American industry requires empirically-driven policy rooted in sound science.
+
+
+PTC
+Home
+Inside GNSS (OR) - GPS-Aided Positive Train Control Goes Back on Transportation Safety Board's Most Wanted List for 2016
+January 14, 2016
+Glen Gibbons
+
+Once again, the National Transportation Safety Board (NTSB) has recommended GPS-aided positive train control (PTC) as one of its “most wanted” transportation safety improvements in 2016. But the agency, which has been advocating for PTC for more than 45 years, appears to be fighting an uphill battle against Congress and the railroad industry.
+
+In unveiling of this year’s wish list during a press conference at the Transportation Research Board’s Annual Meeting in Washington, D.C., yesterday (January 13, 2015), NTSB Chairman Christopher Hart lamented the industry’s failure to meet a December 2015 deadline set seven years ago for implementation of PTC on the nation’s rail system.
+
+“As a result, much of our rail infrastructure remains unprotected by PTC,” Hart said. “Every PTC-preventable accident, death, and injury on tracks and trains affected by the law will be a direct result of the missed 2015 deadline.”
+
+The NTSB investigates transportation accidents, determines their causes, and issues safety recommendations to prevent recurrences. However, as Hart pointed out in his remarks yesterday, the agency has “no power to require that our recommendations be implemented.”
+
+PTC uses GPS to prevent train-to-train collisions, overspeed derailments, and the unauthorized movement of trains into work zones. The Surface Transportation Extension Act of 2015, signed by President Obama on November 20, postponed from December 31, 2015, to December 31, 2018, the deadline for Class I railroads to submit a revised plan for implementing a positive train control (PTC) system on certain of their tracks. The measure further allowed carriers to file an alternative schedule and sequence for implementing a PTC system, subject to Department of Transportation review, that could delay implementation until 2020.
+
+Since Congress set the PTC deadline in the Railroad Safety Improvement Act of 2008, the NTSB has investigated a long list of railroad accidents that would have been prevented by PTC. Most recently, these included the May 12, 2015, Amtrak derailment in Philadelphia, Pennsylvania, that killed eight and injured more than 200, as well as the December 1, 2013, Metro-North passenger train derailment in the Bronx, New York, that killed four and injured 61.
+
+In freight rail, the NTSB investigated at least 11 PTC-preventable accidents that resulted in fatalities, injuries, environmental damage and/or evacuations, Hart added.
+
+Despite the long lead time, private freight railroads complained that implementing PTC was too expensive and technically difficult to accomplish, although five public passenger rail systems managed it. The private companies threatened to shut down the nation’s rail system if the deadline was enforced and the Federal Railroad Administration (FRA) begin enforcing stiff penalties provided for under the 2008 rail safety legislation.
+
+Boston Review - Technology Derailed
+January 14, 2016
+Bryce Emley
+
+Few of us think about cyber security until it fails. Even when it does in a spectacular way—as in the recent theft of nearly 80 million healthcare records from Anthem, contact information from 76 million JPMorgan Chase investors, and 5 million sets of fingerprints from the federal government—we tend not to notice unless the consequences are both direct and dramatic. (Think of the would-be adulterers outed by the Ashley Madison hackers.) This benefits not only the perpetrators, but also their corporate victims, who often opt to deal discreetly, or not at all, with their vulnerabilities.
+
+Among the less glamorous targets of hacking are American railways. But nearly 40 percent of U.S. freight is transported by rail—vastly more than any other mode of transportation. It is efficient and also one of the safest ways to move heavy loads, thanks in part to the 2008 Rail Safety Improvement Act (RSIA), which required all rail companies to overhaul their safety regulations by the end of 2015. One of the act’s requirements is that all rail companies adopt positive train control (PTC), a series of installations and enhancements that allows trains to be operated and monitored remotely via wireless network.
+
+If PTC mitigates potential human errors (speeding through turns, falling asleep in transit, failing to lock brakes), it also creates new dangers­ by opening up avenues to hackers—vulnerabilities shared by all Web-enabled electronics, payment methods, and vehicles. Neil Smith, a San Francisco–based independent security researcher who has been working with the U.S. Industrial Control Systems Cyber Emergency Response Team (ICS-CERT) since 2012 to assess railway network vulnerabilities, says that the chances of a breach are dangerously high.
+
+In 2008 a teenager in Lodz, Poland, hacked his town’s rail network with only a TV remote and a library computer, taking control of nearby trains and causing multiple derailments. And just because we haven’t heard of serious train hacking in the United States doesn’t mean it hasn’t happened. The watchdog website Nextgov obtained a summary of a Transportation Security Administration (TSA) meeting in which government officials admitted that hackers had “disrupted the railway signals” of an unnamed northwestern rail company on two occasions in December 2011. Industry representatives quickly dismissed the memo as inaccurate.
+
+This seems to be the rail industry’s modus operandi. Because vulnerabilities make for bad PR and potentially cost a lot of money to fix, it is best to avoid disclosing the sources of accidents. In 2012 Smith, also an avid ham radio hobbyist, noticed an antenna on a passing BNSF Railway train while he was waiting at a rail crossing and decided on a whim to record the train’s telemetry data. Stricken by how easy it was for him to access the train’s automated status and control signals, he reported suspicions of network vulnerabilities to ICS-CERT. Until that point, few—if any—professionals in the industry had publicly suggested that cyber attacks on trains were possible. When ICS-CERT consulted with the train’s network developer in hopes of getting Smith the green light to run more definitive tests, they responded cryptically, then shut down communication with both Smith and ICS-CERT.
+
+Smith heard nothing else about his data until 2014. Within a few months of the massive derailment in Lac-Mégantic, Quebec, which killed dozens and leveled several city blocks, a TSA-Surface inspector found Smith’s report and emailed him about a similar derailment in Michigan. To him, Smith’s research suggested that it was possible that someone had hacked this train’s network, but the theory ultimately lost traction once it moved up to the regional supervisor. Smith heard nothing more about it and was never able to find public reportage on the derailment, noting that the TSA-Surface inspector and his team likely had too little expertise with cyber issues to pursue it further.
+
+According to Smith, though he and other researchers are increasingly confident that North American railways are being hacked, their hands are tied. “Without the manufacturers and rail companies becoming involved,” Smith explains, “we can’t do live tests to be 100 percent sure that something is a ‘for sure’ vulnerability. I can run simulations all day long that back up all of my suspicions, but it’s not like I can walk over to a train track and test it out—that would be a literal act of terrorism.”
+
+Because network vulnerabilities are hard to anticipate, some companies that offer security products—electronics manufacturers and online shopping platforms, for example—hire security research companies such as Rapid7 or Synack to pry into their systems in order to identify holes and advise on how to patch them before they can be exploited. This practice only makes rail companies’ resistance to independent vulnerability testing more disconcerting: it is reasonable for a company with a product so dependent on wireless access to pursue independent testing, all the more so given the industry’s incredibly complex overhaul of systems and protocol over a short span of time and its newness to network security. As a result, Smith adds, rail companies are rarely equipped with necessary defenses because there were no industry-wide, industry-specific security standards to guide their network developers when the RSIA was passed: “The developers woke up and got a memo saying, ‘You need to have X, Y, and Z done by December 31, 2015,’ and so they addressed X, Y, and Z, meanwhile leaving off the other twenty-three characters in the alphabet.”
+
+The other problem is that the technology the rail industry relies on is created by a company owned by Class 1 railroads—those that earn at least $433.2 million, accounting for nearly 70 percent of U.S. freighting in terms of mileage. The U.S. freight rail network as a whole is a $60 billion private industry, heavily invested in its shareholders, customers, and profits. This, Smith believes, is likely why companies don’t want to work with independent researchers or even the Department of Homeland Security: “If these companies agree to investigate their own networks, they’re admitting that there could be vulnerabilities that would require huge amounts of money to overhaul. That could hurt sales and stock prices and scare off their shareholders.” From a financial standpoint, there’s no incentive to rock the boat by admitting to potential security failings, and so publicity and reliable media coverage of railway vulnerabilities are fairly hard to find in America.
+
+What media coverage does exist often comes in the form of conspiracy theory and niche websites. (An exception was Newsweek’s 2015 article “The Future of Hacking: Your Planes, Trains and Automobiles Aren’t Safe.”) By contrast reporting on theories and predictions about railway cyber security in Europe is much easier to find, spanning major publications and organizations ranging from the BBC to the UK’s Financial Times to the RT news outlet. Additionally there seems to be increasing attention to rail security in European cyber security conferences, including a recent panel at the Chaos Communication Congress in Hamburg (covered in Popular Science) and Industrial Control Cyber Security Europe, which is affiliated with the Rail Cyber Security Summit held in London this March. Rod Diridon, Sr., emeritus executive director of the Mineta Transportation Institute, attributes the difference in media treatment to the fact that “most European countries are somewhat socialistic, and their railways are owned by the government and not publicly traded.”
+
+Indeed the U.S. government has little control over the security practices of private rail companies; still one might expect government-funded passenger lines such as Amtrak to be in complete compliance with RSIA. But just weeks before the major Amtrak derailment outside of Philadelphia in May last year, Congress moved to delay mandatory installation of PTC by five years. The derailed train was not equipped with PTC, and officials at the National Transportation Safety Board explicitly stated that the mandated autocontrol technology would have prevented the disaster entirely. Amtrak posted an official blog post days later, noting, “Amtrak leads all other large railroads (Class 1) in the railroad industry in the installation of PTC systems, having spent $110.7 million dollars since 2008 to install PTC.” Though only “certain segments of the American rail network” fall under that mandate, Philadelphia’s Northeast Corridor is one of them.
+
+Even though PTC has troubling faults, it is a strong step forward in railway safety. Establishing safer railways isn’t a matter of getting rid of it, but of making a concerted national effort to test and secure it. But the intersection of government regulation and private business in the rail industry is complex. The federal testing facility responsible for assessing PTC integration, Technology Transportation Center, Inc., is owned by the Federal Railroad Administration (FRA) but operated by the American Association of Railroads (AAR). “Even though the FRA is doing the testing,” Smith explains, “ultimately it’s up to the AAR to decide what gets tested. With the amount of power they have, it’s like we’re still dealing with the train barons of the 1800s.”
+
+The private companies responsible for making improvements to their networks are also the ones who get to decide whether they need to make changes, and when and whether to engage third-party security experts. Of course, they already have IT teams working to keep their networks secure, but, according to Smith, these efforts have been perilously fragmented during the hasty scramble for compliance; the seven Class 1 train companies’ developers are isolated from each other, from PTC developers, and from third-party security companies. “So you’ve got separate teams across many different rail companies, integrators, and contractors who, if they were just one cohesive unit, might have resolved many security issues,” Smith explains. “But since each one has their own legal teams, PR execs, etc., they don’t want to report that something is wrong if it might mean making them or their business partners look bad.”
+
+Given how new and tenuous PTC is, it seems foolhardy to dismiss independent researchers who have identified existing weaknesses. Certainly there is a lot at stake: one derailment can cost a rail company millions of dollars, so it would seem that protecting their networks is in their best interest. But since RSIA was passed, these companies have invested billions of dollars collectively in compliance upgrades and are now looking at the prospect of investing billions more to fix it. If avoiding that investment means overlooking a theoretical hacking vulnerability that hasn’t proven to do any damage so far, then, at least for a few more years, they seem more than willing to take their chances.
+
+In October Congress voted to push back the RSIA deadline to 2018. In the interim, there may be two possible solutions: either the FRA takes back control of its testing facilities and runs unbiased testing to shape further legislation, or Congress pressures these companies to pursue independent analysis and testing beyond their own internal testing, which so far has proven insufficient. If independent researchers such as Smith can still see the holes they have left in their defenses, then independent testing needs to be a central component of their security protocol, no matter what the cost.
+
+As long as for-profit companies calculate the value of our security according to cost and PR optics, the technologies that facilitate modern life will present untold liabilities. A profit-motivated company has little to gain from transparency if it may alarm investors and consumers and require greater investment with no promise of return. To see the business is to alter it, and publicly traded companies prefer not to open themselves to independent scrutiny, even if doing so would make us safer.
+
+RAIL INCIDENTS
+Home
+WFAA (TX) - 18-wheeler collides with train in Mesquite; 1 dead
+January 14, 2016
+
+MESQUITE — An 18-wheeler hauling rocks burst into flames after crashing into an Amtrak train near Mesquite Thursday afternoon.
+
+The truck driver was killed in the fiery crash. The Dallas County Medical Examiner was called to the scene.
+
+The collision took place on the 4600 block of Scyene Road around 4:30 p.m. Incident commanders on the scene said 44 passengers on board evacuated the train and were believed to be uninjured.
+
+A crew from Amtrak quickly extinguished fires on two train cars. Mesquite and Sunnyvale fire departments also responded to the crash.
+
+Co-workers told News 8 the truck driver had been hauling gravel for J.B. Hunt Transport for seven months.
+
+The train involved, The Texas Eagle, was en route from San Antonio to Chicago, according to Amtrak.
+
+ABC 7 (IL) - Amtrak Train Headed For Chicago Hits Tanker Truck In Texas
+January 14, 2016
+
+DALLAS (WLS) -- An Amtrak train bound for Chicago is on the move again after after striking a tanker truck near Dallas, Texas.
+
+The tanker truck burst into flames, killing the driver. Amtrak said no passengers were seriously injured.
+
+The No. 22 Texas Eagle from San Antonio to Chicago makes several stops in Illinois, including Springfield, Bloomington and Joliet.
+
+The train's arrival into Chicago on Friday will be delayed about five hours, an Amtrak spokesperson said.
+
+The Florida Times Union - 1 dead after Amtrak train hits SUV at Jacksonville railroad crossing
+January 14, 2016
+
+One person is dead after a northbound Amtrak train struck a sport utility vehicle straddling the tracks Thursday near the intersection of Jacksonville's Timuquana Road and Roosevelt Boulevard, according to the Florida Highway Patrol.
+The train struck a Chevrolet Tahoe about 7:20 p.m. and rammed it about a quarter of a mile after the collision.
+
+The driver of the SUV was alone and died after he was taken to UF Health hospital. His name has not been released.
+
+Witnesses told investigators the signals were operational at the time of the crash. The driver appeared to have stopped on the tracks because of traffic.
+
+No passengers on the train were injured. Train traffic was shut down and the intersection of Timuaquana and Roosevelt closed for several hours.
+
+CROSSING NEWS
+Home
+Times Herald-Record (NY) - Schumer backs call for improvements at rail crossing
+January 14, 2016
+Michael Randall
+
+CORNWALL-ON-HUDSON – Sen. Chuck Schumer on Thursday threw his weight behind village officials’ quest to get some improvements at a railroad crossing where a train hit a car stuck on the tracks on Nov. 25.
+
+The driver, Lisa Castanon, 44, of Wappingers Falls, was hurt in the collision when she went back to retrieve her cell phone from the car.
+
+Village officials are seeking a meeting with CSX, which owns the tracks, operated the train and would be responsible for the expense of any improvements.
+
+Schumer held a news conference Thursday at the scene of the collision, and he’s sending a letter to CSX officials asking them to include funding for improvements at the site in their next capital program.
+
+While there have been no fatalities at the crossing, Schumer said, “We may not be so lucky next time.”
+
+Among the improvements village officials have suggested, and which Schumer said he, too, supports, are paving work to prevent vehicles from getting stuck on the crossing, and installing new gates. Schumer noted the current gates do not extend all the way across the road on either side, which could allow an impatient driver to cross even when the barriers are lowered.
+
+“It shouldn’t be that expensive” to make the improvements, Schumer said.
+
+Jeff Armitage, chief of the Storm King Engine Company, said the village made a formal request for a meeting several days ago, and he hopes to get a quick response. He said he spoke to one of CSX’s safety officials the night of the collision and described him as “very cooperative.”
+
+Schumer is hoping for an answer from CSX by next week. CSX spokesman Rob Doolittle said Thursday that the company had not yet received the invitation, and that CSX is amenable to meeting with officials in the communities where it operates to discuss safety improvements.
+
+The Almanac (CA) - Menlo Park gets started on two major rail crossing projects
+January 14, 2016
+Kate Bradshaw
+
+The city of Menlo Park has taken initial steps on two major transportation projects designed to improve east-west connectivity and enhance safety at the Ravenswood Avenue railroad crossing.
+
+One project would build a bicycle and pedestrian undercrossing of the railroad tracks at Middle Avenue. The other would build a grade separation – separating the roadway from the railway – at Ravenswood Avenue.
+
+Middle Avenue
+
+On Dec. 15, the City Council formalized its support for the Middle Avenue undercrossing, designed to improve connectivity on both sides of the tracks, including between the Civic Center and the downtown areas, for walkers and cyclists.
+
+The council passed a resolution supporting the project and authorized city staff to apply for $490,000 in San Mateo County Measure A sales tax funds. That amount, together with $210,000 from the city, would pay for preliminary engineering work on the project.
+
+Funds for design and construction of the undercrossing, which the city estimates will cost about $11 million in total, "will need to be pursued in the future," the city said in a staff report.
+
+In November, the San Mateo County Transportation Authority called for pedestrian and bicycle projects that could be funded by Measure A money.
+
+The undercrossing is expected to be built in conjunction with Stanford University's plan to develop its 8.4 acres along El Camino with offices, apartments and retail. Stanford has said it will make a "substantial contribution" to fund the undercrossing, but has not been more specific.
+
+Ravenswood Avenue
+
+City staff has begun its search for engineering consultants to lead the preliminary engineering and design work for a "grade separation" project at the Ravenswood Avenue crossing of the tracks. In a grade separation, the roadway runs either above or under the tracks.
+
+Of the four rail crossings in Menlo Park – at Ravenswood, Oak Grove, Glenwood and Encinal avenues – the Ravenswood crossing has the highest volume of traffic, at about 24,000 vehicles per day, according to city data.
+
+Also, Ravenswood Avenue serves as the city's main east-west connector between U.S. 101 and El Camino Real, making it the highest-priority crossing to be considered for a grade separation, city staff said.
+
+In February 2015, it was also the site of a fatality when a train struck a car on the tracks and killed the driver, a 35-year-old woman.
+
+Proposals from engineering consultants are due Jan. 21 and the consultant is expected to be selected in February. The projected completion date for early engineering, public outreach and design work is February 2017.
+
+HIGH SPEED RAIL
+Home
+Los Angeles Times - Burbank will receive $800,000 to study proposed high-speed rail station
+January 14, 2016
+Dan Weikel
+
+Burbank will receive $800,000 in government funds to begin planning a proposed transportation center near Bob Hope Airport that would serve high-speed trains, officials said Thursday.
+
+The money from the California High-Speed Rail Authority will be used to explore three station locations, opportunities for related economic development and the integration of high-speed trains into the local transportation system.
+
+"The San Fernando Valley is long overdue for a major infrastructure investment of this magnitude," said Michelle Boehm, the Southern California regional director for the high-speed rail authority. "This agreement creates a unique regional planning opportunity that will help facilitate development of a world class transportation hub."
+
+Under consideration are two potential sites on the northeast side of Bob Hope Airport between the runway and North Hollywood Way. A third option is on San Fernando Boulevard immediately west of Hollywood Way.
+
+If built, the so-called Regional Intermodal Transportation Center would accommodates high-speed rail, Amtrak, the Metrolink commuter railroad, bus lines, taxis and ride-share operations, including van pools and transportation networking companies such as Uber and Lyft.
+
+High-speed rail officials say the final location of the station will be decided during the environmental review process.
+
+Burbank is the latest of several California cities that have received state and federal funds from the rail authority to study station locations that could serve the project. Other municipalities include Merced, Fresno, Bakersfield, Gilroy and Palmdale.
+
+HHFT
+Home
+The Spokesman Review - Proposed oil terminal brings only risk for Spokane, critics say
+January 14, 2016
+Becky Kramer
+
+Building a crude oil terminal in Vancouver, Washington, puts Spokane and other communities at risk from increased oil train traffic, without offering any local economic benefits, opponents of the project told state officials Thursday night.
+
+Four more oil trains daily would pass through downtown Spokane on elevated tracks if the Vancouver Energy Terminal is built, heightening the risk of a fiery derailment, they said.
+
+“There is nothing in this for Spokane, only risk,” said Sierra Club member Dennis Todara, who works in a downtown office building. “Our office windows look out over the train tracks. We’re just hoping to stay lucky.”
+
+More than 100 people signed up to testify at the hearing in Spokane Valley, which drew a crowd of vocal opponents, including local officials, tribal members and community members. Residents of Sandpoint and Missoula also testified, saying the extra oil train traffic also put their cities at higher risk for derailment and spills.
+
+The hearing was scheduled by Washington’s 10-member Energy Facility Site Evaluation Council, which is accepting public comments on a draft environmental impact statement for the terminal.
+
+Several Spokane City Council members testified at the meeting, and state Sen. Andy Billig sent written comments, which were read aloud. They expressed concerns about the projected increase in the mile-long oil trains through the region.
+
+The terminal would accept up to 360,000 barrels of oil per day, resulting in the four additional oil trains daily through Sandpoint and Spokane, plus four empty trains per day on the return route. Two to three oil trains a day pass through the area currently.
+
+Crude oil from North Dakota’s oil fields and Alberta’s tar sands would be unloaded at the terminal and barged to coastal refineries in Washington, Oregon and California. The $210 million terminal is a joint venture between Tesoro Corp. and Savage Companies.
+
+Accidents involving rail shipments of crude oil from North Dakota’s Bakken oil fields have been responsible for a string of explosions since 2013, including one that killed 47 people in Quebec.
+
+“Our citizens and our river are sitting ducks,” said Candace Mumm, a Spokane city councilwoman.
+
+Until oil companies are required to stabilize the volatile compounds found in Bakken crude, the rail shipments through populated areas aren’t safe, said Ben Stuckart, Spokane City Council president. He asked state officials to recommend against the project to Gov. Jay Inslee, who will make the final decision.
+
+“The draft environmental impact statement shows that mitigation is impossible,” Stuckart said.
+
+A representative of the Spokane chapter of the NAACP also testified against the terminal, saying low-income households and people of color are more likely to live near the tracks and would be at greater risk from diesel pollution and potential derailments or fires.
+
+Increased wait times at train crossings also was raised as a concern for Cheney and Spokane Valley residents.
+
+However, the project received support from local carpenters and boilermakers.
+
+“As an oil-consuming nation, we need a steady, reliable supply of oil,” said Lance Fritze, a Spokane resident who represents a carpenters union. Oil-by-rail shipments are “safer than using a pipeline and more efficient than trucking it,” he said.
+
+“I like to think that I live in the real world, and I think that oil is very important to our way of life,” said Zach Hutzenbiler, a Post Falls resident and local boilermaker. He encouraged state officials to use common sense as they deliberate the project.
+
+Jared Larrabee, general manager for the Vancouver Energy Terminal, said the crude oil shipped through the terminal to West Coast refineries will be consumed in the U.S. – much of it in the West, where demand for gasoline is growing. Recent declines in crude oil prices won’t affect the project’s viability, he said.
+
+“This is a long-term project,” Larrabee said in an interview before the hearing. “We’re not looking out one to two years.”
+
+Company officials believe the terminal can be operated “safely and in an environmentally responsible manner,” according to a statement from Tesoro-Savage. The terminal would only accept oil shipments in the newer, safer rail cars, Larrabee said.
+
+BNSF Railway, which transports the crude oil, has spent $550 million upgrading tracks in Washington in the past three years, with additional work planned this year, said Gus Melonas, a BNSF spokesman. The work included replacing all of the track on elevated bridges through downtown Spokane, he said.
+
+Oil trains travel at lower speeds through populated areas, he said. Through Spokane, oil trains travel 20 to 35 mph, he said.
+
+Rail industry officials say 99.9 percent of trains carrying hazardous materials reach their destinations without releases.
+
+But critics have called for a more rigorous look at the derailment risks between Spokane and Vancouver.
+
+“We believe the risk of accidents needs to be more scientifically assessed,” said Dr. Bruce Amundson, president of Washington Physicians for Social Responsibility, who testified Thursday night. Recent accident analysis indicates that the weight of oil trains plays a role in derailments, and even new track can fail, he said.
+
+Tesoro-Savage officials are hoping for a decision on the terminal this year.
+
+AMTRAK
+Home
+WNPR (CT) - Feds Explore Options to "Transform" Northeast Rail Infrastructure at Meeting in Hartford
+January 14, 2016
+Ryan Caron King
+
+The Federal Railroad Administration is looking at ways to overhaul the Northeast Corridor -- the busiest commuter rail system in the country that runs through parts of Connecticut. 
+
+Officials in Hartford Wednesday night fielded comments at a public hearing on the FRA's proposals for redevelopment. 
+
+Some residents and officials from smaller towns voiced concern that new rail development would disrupt cultural heritage sites in their communities -- others at the meeting advocated for more transit connectivity.
+
+“Moving out here to Connecticut, it was very difficult for me at first to be able to get around in the state,” said Donna Farvard, who originally hails from California and now works for the advocacy group ConnPirg. 
+
+“I ended up deciding to buy a car just to get from Storrs to Hartford for work. The decision to do that was very difficult for me, because, one, the cost of being car-dependent, but also the environmental impact of being car-dependent as well,” Farvard said. 
+
+The first option presented by the FRA would maintain the current state of rail in the northeast with repairs to the current infrastructure, alleviation of the more congested areas in the corridor, and the addition of a new line between Old Saybrook and Kenyon, Rhode Island.
+
+But the second option presented, one that caters more to commuters like Farvard, would add a new line between Hartford and Providence with a stop at the UConn Storrs Campus.
+
+The third alternative, with the heftiest price tag of over $250 billion, would include options for several other new rail connections in the northeast, such as a tunnel between Long Island and New Haven. 
+
+But some say there's still not enough information to help them make an informed decision on what option is best. And several people at the meeting said it was only recently that they learned of the FRA's proposals for the corridor. 
+
+One question that remains is how they’ll fund it, as retired transportation engineer David Chase brought up during the hearing. 
+
+“In the reports, it doesn’t talk about is it FRA money, is it Amtrak money, is it city money, is it state money. And I think you probably need to start presenting that,” Chase said. 
+
+News from earlier in the day that General Electric will be moving their Connecticut headquarters to Boston hung over the meeting, and a few people voiced concern that if major rail development wasn't brought to Connecticut, the state wouldn't be able to compete with other states in the region. 
+
+“People are leaving this state, I think we all get that. And for us to attract young people, it’s going to be difficult for Connecticut because we’re competing with Boston," said Steve Mitchell, a board member of the East Coast Greenway bike trail organization. He was there advocating for more bicycle-friendly connections on the corridor's rail system. 
+
+Hartford resident Hewan Essue said he thinks the FRA's rail overhaul could benefit the "least privileged in our society" -- but he thinks the FRA should coordinate more with current state transportation projects, like the I-84 highway rebuild in Hartford.
+
+"There's an airport in this state. I've heard nothing about connectivity with the airport, which I think would be a great benefit to the region also," Essue said. "We're now planning to rebuild I-84 in Hartford I guess within the next ten years or so -- are we now going to build this new stretch of highway and 15-20 years later rip it apart again to put rail in?" 
+
+FRA officials said they will review the comments they collected from the public and announce the preferred option in the spring.
+
+The State Journal (WV) - Amtrak Adds Business Class to West Virginia's Cardinal passenger train
+January 14, 2016
+James E. Casto
+
+Something new is coming to the Cardinal, the Amtrak passenger train that serves Huntington, Charleston and a half-dozen other West Virginia communities.
+
+Effective Jan. 20, the Cardinal will have a car that offers reserved seating for Business Class passengers only.
+
+According to Amtrak’s announcement, the Business Class car will offer spacious leather seats, complimentary non-alcoholic beverages, Wi-Fi and other amenities.
+
+Chuck Riecks of Friends of the Cardinal, a Charleston-based organization that promotes the train, welcomed the new service. 
+
+“Having this additional level of service on the Cardinal should improve Southern West Virginia's access to the entire national public transportation system,” Riecks said.  “And the pricing is attractive. For as little as $27 more I can upgrade from Reserved Coach to Business Class to Washington D.C. on the Cardinal.” 
+
+Riecks said he hoped the addition of Business Class service is “just the first in many future improvements Amtrak implements on the Cardinal.”
+
+The Cardinal travels between Chicago and New York via a 1,146-mile route, with a key portion of its route extending across West Virginia, from Kenova in the west to the Virginia state line just beyond White Sulphur Springs in the east. It’s a successor to Chesapeake & Ohio Railway’s iconic George Washington, which ran from 1932 to the advent of Amtrak in 1971.
+
+Currently the Cardinal travels only three days a week. Friends of the Cardinal and others long have urged Amtrak to expand the train’s schedule  to daily service.
+
+STATE BY STATE
+Home
+Coloradoan - Crystal ball: Big things by 2030
+January 14, 2016
+David May
+
+With a fresh year, it’s customary to pause for a look ahead. Not content with the traditional one-year forecast, here are some things to ponder over the next 15 years.
+
+To illustrate how difficult that is, think back 15 years to 2001. Google was three years old, Facebook wouldn’t be founded for three more years, Microsoft was king of the tech hill, “the cloud” was a fluffy white thing in the sky, Kodak was synonymous with photography, and “telephone” meant land line, not mobile device
+
+In other words, a lot happens in 15 years.
+
+With that caveat, here’s one person’s predictions of Fort Collins and Northern Colorado in 2030.
+
+The biggest development is that boomers will be gone. Not from this earth, but most of the baby boomer generation will have left the workforce. That sound you hear is GenXers and millennials saying, “It’s about time!”
+
+Even as the following generations finish claiming their rightful place in society and the workplace, nationwide there will be a 30 million-person shortage of workers.
+
+There will be 214,000 people living in Fort Collins, up from 160,000 now. It is simple demography. People are living longer, young people are still having babies and Fort Collins is an attractive place to retire.
+
+Today, there are 326,803 souls in Larimer County. By 2030 the population will be 418,814, or 92,000 more people. By 2040 the combined population in Larimer and Weld Counties will be more than 1 million people.
+
+The small communities around us will also grow. For example, Wellington will grow from 7,000 people today to 11,000 in 15 years and to 15,000 in 25 years.
+
+The current Fort Collins labor force of approximately 100,000 will grow to 134,000.
+
+Economically, as a smart, tech-oriented university town, Fort Collins will continue in its role as a workbench for Silicon Valley. There will be the opportunity to attract tech jobs as the dysphoria of California continues to drive up costs.
+
+The booming health-care sector of today will be booming in 2030 while caring for the boomers. The community will benefit from passive retirement income as local people retire in place, and, as noted earlier, in-migrating boomers join them.
+
+Interstate 25 will be widened to three lanes each way between Fort Collins and Longmont, and conversation will be underway about adding a fourth lane and commuter rail.
+
+Trains will still be an issue but the city, the Federal Railroad Administration and the railroads will have agreed upon and implemented noise mitigation measures. And, finally, due to pressure by residents, some underpasses will have been built on two of the major cross-streets at the tracks.
+
+The owners of the Foothills Mall will be ready to unveil plans for a new renovation.
+
+Star Wars XIII will be playing on everyone’s virtual reality headsets.
+
+Colorado State University’s on-campus stadium will be a venerated community gathering place.
+
+And Fort Collins will still be a wonderful place to live!
+
+Progressive Railroading - Metra OKs $1 million study of Union Station improvements
+January 14, 2016
+
+Metra's board yesterday voted to spend $1 million on a study that will produce 30 percent design plans to improve Chicago Union Station. 
+
+The study will include planning, historic review and preliminary engineering and design work to address the station's capacity, service accessibility and mobility issues identified in the 2012 Chicago Union Station Master Plan, Metra officials said in a press release.
+
+In particular, the study will examine ways to increase train and passenger handling capacity in and around the station; modernize the station to better accommodate future commuter-rail passengers; reduce congestion and enhance facilities for trains and passengers; improve intermodal connections; strengthen access to jobs by better connecting city neighborhoods and suburban communities; and improve compliance with the Americans with Disabilities Act.
+
+"Nearly half of Metra's customers use Chicago Union Station for their trips, so improving and modernizing it is a top priority for our agency," said Metra Chairman Marty Oberman. "By working closely with the city and our partners, we believe this significant project will finally move forward and become a reality."
+
+Metra, Amtrak, Chicago and the Regional Transportation Authority collectively drafted a statement of work to solicit a team to work on the project, with a selection to be made by March 2016 and design work expected to be completed in late 2017 or early 2018. 
+
+Metra is committing $1 million toward the study, while Amtrak has allotted $3 million; the RTA, $1.5 million; and the city of Chicago, $500,000.
+
+Chicago Union Station is the third-busiest station in the United States and a key transportation facility and economic driver for Chicago and the region, Metra officials said.
+
+
+3
+
+
